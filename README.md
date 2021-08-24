@@ -1,0 +1,2 @@
+# Projecto de um Semaforo com Arduino Uno
+ Semáforo (também conhecido popularmente como sinal, sinaleira e farol (pt-BR) ou sinal luminoso (pt-PT) ) é um instrumento utilizado para controlar o tráfego de veículos e de pedestres (pt-BR) ou peões (pt-PT) nas grandes cidades em quase todo o mundo. Utiliza uma linguagem simples e, por isso, de fácil assimilação. É composto geralmente por três círculos de luzes coloridas. O controle semafórico permite alternar o direito de passagem na zona de conflito de uma interseção.
